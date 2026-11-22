@@ -1,0 +1,13 @@
+node_modules
+dist
+.vercel
+*.local
+*.tsbuildinfo
+.DS_Store
+scripts/samples
+scripts/*.png
+scripts/*.jpg
+scripts/*.jpeg
+scripts/*.txt
+vite.config.js
+vite.config.d.ts
